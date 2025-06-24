@@ -9,4 +9,8 @@ public class MyException {
 
 	}
 
+	public static void test() {
+		
+		System.out.println("Test Complite");
+	}
 }
