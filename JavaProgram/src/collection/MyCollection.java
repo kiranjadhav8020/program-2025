@@ -6,7 +6,9 @@ public class MyCollection {
 		// TODO Auto-generated method stub
 		
 		System.out.println("My Collection");
+		System.out.println("My Collection");
 
 	}
+
 
 }
