@@ -1,1 +1,23 @@
-  *.class
+# Eclipse specific
+.metadata/
+*.log
+*.snap
+*.index
+*.prefs
+*.xmi
+
+# Bin and class files
+bin/
+*.class
+
+# IntelliJ specific
+.idea/
+*.iml
+
+# Build directories
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
