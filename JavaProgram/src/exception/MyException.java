@@ -13,4 +13,9 @@ public class MyException {
 		
 		System.out.println("Test Complite");
 	}
+	
+	public static void test1() {
+		
+		System.out.println("Test1 Complite");
+	}
 }
