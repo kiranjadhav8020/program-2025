@@ -13,6 +13,8 @@ public class ExceptionDemo{
 	  catch(ArithmeticException e){
 	  
 	    System.out.println("Error:can not divided by zero");
+		System.out.println("Error:can not divided by zero");
+		
 	    
 	  }
       
